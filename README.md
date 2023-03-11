@@ -1,4 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+</p>
+<p align="center">
+  <b>👋Hi there. I'm Nick Vinesmoke</b>
+</p>
+<hr>
+
+
+
+
+
 
 <!--
 **Nick-Vinesmoke/Nick-Vinesmoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
