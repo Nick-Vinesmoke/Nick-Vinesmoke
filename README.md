@@ -7,39 +7,26 @@
 <hr>
 <h3>⌨Programming languages that I know well⌨</h3>
 <p>
-<img src="https://user-images.githubusercontent.com/123866627/224480778-d4a905dc-3acb-4c24-8580-3111684d8fe1.png">
-<img src="https://user-images.githubusercontent.com/123866627/224480817-658739ca-2187-487b-a1d1-9fa1a3b5a18d.png">
-<img src="https://user-images.githubusercontent.com/123866627/224480841-2c3ede87-b83f-454c-9e14-d94de97c8ecf.png">
-<img src="https://user-images.githubusercontent.com/123866627/224480858-1bb9dcd8-0b00-438b-92ea-17b822922110.png">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
 <h3>⌨Programming languages that I know not bad⌨</h3>
 <p>
-<img src="https://user-images.githubusercontent.com/123866627/224481090-9250c7bb-afd6-4486-9006-0c4202fbd235.png">
-<img src="https://user-images.githubusercontent.com/123866627/224481125-4ca9a420-45c4-47bc-826e-d58576dcaefd.png">
-<img src="https://user-images.githubusercontent.com/123866627/224481142-9a7bc007-9a86-4fd8-befd-f82352822dfd.png">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 <h3>⌨Programming languages that I know a little⌨</h3>
 <p>
-<img src="https://user-images.githubusercontent.com/123866627/224481202-86c27104-a3e8-4c14-8f59-65c147f5ef9a.png">
-<img src="https://user-images.githubusercontent.com/123866627/224481216-a386388a-6fb9-4969-b0b3-4c2eecee0e47.png">
-<img src="https://user-images.githubusercontent.com/123866627/224481247-8564c13e-6f5e-47c0-b526-0fdd89c0fc74.png">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 <hr>
+<h3>📲Contacts</h3>
+   <p><a href="https://github.com/Nick-Vinesmoke"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://discordapp.com/users/798503509522645012/"><img src="https://img.shields.io/badge/Discord-003E54?style=for-the-badge&logo=Discord&logoColor=white"></a>
+   </p>
 
-
-
-
-<!--
-**Nick-Vinesmoke/Nick-Vinesmoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
