@@ -5,8 +5,9 @@
   <b>👋Hi there. I'm Nick Vinesmoke</b>
 </p>
 <hr>
-
-
+<h3>⌨Programming languages that I know well⌨</h3>
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+<hr>
 
 
 
