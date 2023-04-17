@@ -37,7 +37,8 @@
 <p>
    <a href="https://www.donationalerts.com/r/nick_vinesmoke"><img src="https://img.shields.io/badge/Donationalerts-F37623?style=for-the-badge&logo=Cash%20App&logoColor=white"></a>
      <a href="https://patreon.com/NickVinesmoke"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-  Monero: `83PXY1A4PvPWCwveY4cN5p5zFLKNF4KMGfzRnR4A8qPXRABzoHPoahUP4H6eP636FPYbkn76tzUJmcc2Lai3VFkLHdoe4QV`
+  
+  Monero: <code>83PXY1A4PvPWCwveY4cN5p5zFLKNF4KMGfzRnR4A8qPXRABzoHPoahUP4H6eP636FPYbkn76tzUJmcc2Lai3VFkLHdoe4QV</code>
 </p>
 
 
