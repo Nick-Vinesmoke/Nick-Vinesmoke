@@ -37,7 +37,7 @@
    <p><a href="https://github.com/Nick-Vinesmoke"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://discordapp.com/users/798503509522645012/"><img src="https://img.shields.io/badge/Discord-003E54?style=for-the-badge&logo=Discord&logoColor=white"></a>
      
-My Discord server <a href="https://discord.gg/ufvyg5F2j4">join us</a>
+Our Discord server <a href="https://discord.gg/ufvyg5F2j4">join us</a>
 </p>
 <hr>
 <h3>💰 Donate</h3>
